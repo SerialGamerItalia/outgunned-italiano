@@ -424,5 +424,12 @@
       "trope": "Trope",
       "weaponfeat": "Tratto dell’arma"
     }
+  },
+  "OUTGUNNED_IT": {
+    "NamePlaceholder": "Nome",
+    "DangerRollReminder": "TIRO PERICOLOSO",
+    "WarningOwnedItemMacro": "Puoi creare pulsanti macro solo per gli Elementi posseduti da un Attore.",
+    "WarningMissingMacroItem": "Impossibile trovare l’elemento {itemName}. Potrebbe essere necessario eliminare e ricreare questa macro.",
+    "WarningMissingMacroActor": "Impossibile trovare l’Eroe associato all’Abilità {itemName}."
   }
 }
