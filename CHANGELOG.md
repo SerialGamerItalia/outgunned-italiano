@@ -1,9 +1,10 @@
 # Changelog
 
-## 0.2.2 — Allineamento terminologico
+## 0.2.2 — Allineamento terminologico e collaudo
 - Corrette le etichette BAD/HOT, la resa di Successi inferiori e Jackpot! in base al manuale italiano.
 - Mantenute inalterate tutte le chiavi del dizionario originale.
-- La versione non è ancora collaudata in un'istanza Foundry reale.
+- **Collaudo pratico superato:** l'utente ha installato e provato il modulo in Foundry VTT, confermando che la localizzazione attuale funziona correttamente.
+- I compendi ufficiali non fanno parte della traduzione in questa versione.
 
 ## 0.2.1 — Copertura delle stringhe hard-coded
 - Aggiunto `module.json` per distribuire la traduzione come modulo Foundry autonomo.
