@@ -36,12 +36,12 @@ Hooks.once("ready", () => {
       if (message === "You can only create macro buttons for owned Items") {
         translated = game.i18n.localize("OUTGUNNED_IT.WarningOwnedItemMacro");
       } else if (typeof message === "string") {
-        let match = message.match(/^Could not find item (.+)\\. You may need to delete and recreate this macro\\.$/);
+        let match = message.match(/^Could not find item (.+)\. You may need to delete and recreate this macro\.$/);
         if (match) {
           translated = game.i18n.localize("OUTGUNNED_IT.WarningMissingMacroItem")
             .replace("{itemName}", match[1]);
         } else {
-          match = message.match(/^Could not find the actor for skill (.+)\\.$/);
+          match = message.match(/^Could not find the actor for skill (.+)\.$/);
           if (match) {
             translated = game.i18n.localize("OUTGUNNED_IT.WarningMissingMacroActor")
               .replace("{itemName}", match[1]);
