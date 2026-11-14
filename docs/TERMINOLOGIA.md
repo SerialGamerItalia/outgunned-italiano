@@ -1,24 +1,39 @@
-# Linee guida terminologiche
+# Glossario terminologico
 
-Queste scelte sono provvisorie e andranno confrontate con il manuale italiano ufficiale caricato per il progetto, così da preservare la terminologia editoriale di Outgunned.
+Glossario di riferimento per l'interfaccia italiana. Le voci principali seguono la terminologia del manuale italiano di Outgunned; alcune etichette di sistema sono rese in modo funzionale per adattarsi alla UI.
 
-| Inglese | Italiano provvisorio | Nota |
+| Inglese | Italiano | Nota |
 |---|---|---|
-| Brawn | Vigore | Attributo |
+| Brawn | Muscoli | Attributo |
 | Nerves | Nervi | Attributo |
-| Smooth | Fascino | Attributo |
-| Focus | Concentrazione | Attributo |
+| Smooth | Carisma | Attributo |
+| Focus | Focus | Attributo |
 | Crime | Crimine | Attributo |
-| Director | Direttore | Ruolo di conduzione |
+| Attribute | Attributo | |
+| Skill | Abilità | |
+| Hero / Character | Eroe | Scheda del personaggio giocante |
+| Director | Regista | Ruolo di conduzione |
+| Role | Ruolo | Elemento di creazione dell’Eroe |
+| Trope | Trope | Termine mantenuto come nel manuale italiano |
+| Feat | Tratto | Voce tecnica del sistema |
+| Trait | Tratto | |
+| Age | Età | |
+| Equipment / Gear | Equipaggiamento | |
+| Condition | Condizione | |
+| Grit | Grinta | Risorsa |
 | Adrenaline | Adrenalina | Risorsa |
-| Spotlight | Riflettori | Risorsa/termine di gioco: verificare glossario |
-| Grit | Tempra | Risorsa/danno: verificare glossario |
-| Trope | Archetipo | Elemento di creazione del personaggio: verificare glossario |
-| Feat | Talento | Elemento di scheda |
-| Role | Ruolo | Elemento di creazione del personaggio |
-| Condition | Condizione | Stato del personaggio |
-| Action Roll | Prova d'azione | Meccanica |
-| Danger Roll | Prova di pericolo | Meccanica |
-| Death Roulette | Roulette della morte | Meccanica |
+| Spotlight | Spotlight | Nome della risorsa mantenuto |
+| Cash | Cash | Risorsa mantenuta come nel manuale |
+| Lethal Bullet | Pallottola Letale | Roulette della Morte |
+| Death Roulette | Roulette della Morte | Meccanica |
+| Action Roll | Tiro di Azione | Meccanica |
+| Danger Roll | Tiro Pericoloso | Meccanica |
+| Reroll | Rilancio | Meccanica |
 | Plan B | Piano B | Meccanica |
 | Chase | Inseguimento | Scheda/struttura |
+| You Look | Mi Sembri | Sezione della scheda |
+| Heat | Calore | Tracciamento della pressione della scena |
+
+## Attributi e abilità del manuale
+
+I cinque Attributi sono Muscoli, Nervi, Carisma, Focus e Crimine. Le abilità vengono mantenute distinte dagli Attributi, come nella scheda italiana.
