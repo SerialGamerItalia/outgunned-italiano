@@ -1,0 +1,41 @@
+{
+  "id": "outgunned-italiano",
+  "title": "Outgunned — Localizzazione Italiana",
+  "description": "Traduzione italiana dell'interfaccia del sistema Outgunned per Foundry Virtual Tabletop. Richiede il sistema Outgunned.",
+  "version": "0.2.0",
+  "authors": [
+    {
+      "name": "Serial Gamer Italia",
+      "url": "https://www.serialgamer.it/"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14.368",
+    "maximum": "14"
+  },
+  "system": [
+    "outgunned"
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "outgunned",
+        "type": "system"
+      }
+    ]
+  },
+  "languages": [
+    {
+      "lang": "it",
+      "name": "Italiano",
+      "path": "lang/it.json"
+    }
+  ],
+  "url": "https://github.com/SerialGamerItalia/outgunned-italiano",
+  "manifest": "https://raw.githubusercontent.com/SerialGamerItalia/outgunned-italiano/main/module.json",
+  "download": "https://github.com/SerialGamerItalia/outgunned-italiano/archive/refs/heads/main.zip",
+  "readme": "README.md",
+  "changelog": "CHANGELOG.md",
+  "license": "LICENSE"
+}
