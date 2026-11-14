@@ -8,7 +8,7 @@ La prima versione del dizionario italiano è stata creata e verificata rispetto 
 
 La localizzazione è distribuita come **modulo separato**: Foundry carica prima le traduzioni del sistema e poi quelle dei moduli attivi; in questo modo le stringhe italiane del modulo possono sostituire quelle inglesi del sistema Outgunned.
 
-**Versione corrente:** 0.2.0 — prima versione tecnica del modulo, non ancora collaudata in un'istanza Foundry reale.
+**Versione corrente:** 0.2.1 — prima versione tecnica del modulo, non ancora collaudata in un'istanza Foundry reale.
 
 ## Requisiti
 
@@ -37,6 +37,7 @@ Se il modulo è già installato, aggiorna il pacchetto dal menu di Setup e riavv
 - Dizionario dell'interfaccia: `lang/it.json`.
 - Etichette e terminologia delle schede di Eroe, Nemico, Regista, Inseguimento, Missione, Supporto e Supereroe, per quanto gestite dalle chiavi di localizzazione del sistema.
 - Tipi di Attori ed Elementi, impostazioni, finestre, messaggi e risultati di tiro che utilizzano le chiavi localizzate.
+- Correzioni mirate per alcuni testi hard-coded del sistema (promemoria Tiro Pericoloso, placeholder dei nomi e avvisi di macro).
 
 ## Cosa non è ancora certificato
 
