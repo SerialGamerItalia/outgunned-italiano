@@ -8,7 +8,7 @@ La prima versione del dizionario italiano è stata creata e verificata rispetto 
 
 La localizzazione è distribuita come **modulo separato**: Foundry carica prima le traduzioni del sistema e poi quelle dei moduli attivi; in questo modo le stringhe italiane del modulo possono sostituire quelle inglesi del sistema Outgunned.
 
-**Versione corrente:** 0.2.1 — prima versione tecnica del modulo, non ancora collaudata in un'istanza Foundry reale.
+**Versione corrente:** 0.2.2 — prima versione tecnica del modulo, non ancora collaudata in un'istanza Foundry reale.
 
 ## Requisiti
 
