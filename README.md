@@ -8,7 +8,7 @@ La prima versione del dizionario italiano è stata creata e verificata rispetto 
 
 La localizzazione è distribuita come **modulo separato**: Foundry carica prima le traduzioni del sistema e poi quelle dei moduli attivi; in questo modo le stringhe italiane del modulo possono sostituire quelle inglesi del sistema Outgunned.
 
-**Versione corrente:** 0.2.2 — prima versione tecnica del modulo, non ancora collaudata in un'istanza Foundry reale.
+**Versione corrente:** 0.2.2 — installata e verificata dall'utente in un'istanza reale di Foundry VTT. L'utente ha confermato che la localizzazione attuale funziona correttamente.
 
 ## Requisiti
 
@@ -39,11 +39,12 @@ Se il modulo è già installato, aggiorna il pacchetto dal menu di Setup e riavv
 - Tipi di Attori ed Elementi, impostazioni, finestre, messaggi e risultati di tiro che utilizzano le chiavi localizzate.
 - Correzioni mirate per alcuni testi hard-coded del sistema (promemoria Tiro Pericoloso, placeholder dei nomi e avvisi di macro).
 
-## Cosa non è ancora certificato
+## Limiti e compatibilità
 
-- Il collaudo in un'installazione reale di Foundry VTT 14.
+La versione 0.2.2 è stata provata dall'utente in Foundry VTT e il funzionamento della localizzazione attualmente implementata è stato confermato. La verifica riguarda la versione corrente del modulo e non costituisce una garanzia per versioni future del sistema o di Foundry.
+
 - La copertura dei testi inseriti direttamente nel codice o nei template senza passare dal dizionario.
-- La traduzione dei contenuti dei compendi ufficiali o di esempio: non vengono copiati né redistribuiti da questo progetto.
+- La traduzione dei contenuti dei compendi ufficiali o di esempio: al momento non sono tradotti e non vengono copiati né redistribuiti da questo progetto.
 - L'eventuale differenza di comportamento nelle versioni future del sistema Outgunned.
 
 Segnalazioni di stringhe rimaste in inglese o problemi di visualizzazione possono essere aperte nella sezione Issues di questa repository.
